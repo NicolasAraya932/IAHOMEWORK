@@ -6,4 +6,4 @@ Cualquier intento de copia de terceros será meramente responsabilidad del terce
 
 Cualquier consulta referente a estudio de esta tarea y solo estudio de esta tarea será atendida como corresponde.
 
-Si la tarea está mal realizada, tiene algúnos bugs o puede mejorarse también se aprecian feedbacks.
+Si la tarea está mal realizada, tiene algunos bugs o puede mejorarse también se aprecian feedbacks.
