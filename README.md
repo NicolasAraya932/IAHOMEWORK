@@ -8,3 +8,11 @@ Cualquier intento de copia de terceros será meramente responsabilidad del terce
 Cualquier consulta referente a estudio de esta tarea y solo estudio de esta tarea será atendida como corresponde.
 
 Si la tarea está mal realizada, tiene algunos bugs o puede mejorarse también se aprecian feedbacks.
+
+## FORMA DE EJECUCIÓN:
+
+Importante realizar la ejecución de las celdas según el orden en el que se encuentran en el ipynb.
+
+No es necesario descargar los archivos con los conjuntos de entrenamiento y prueba pues estos son descargados directamente mediante el comando wget de unix.
+
+No todos los modelos son reiniciados en el código, por lo que corresponde reiniciar el entorno y ejecutar todo nuevamente para evitar el sobreajuste de los modelos RNA.
