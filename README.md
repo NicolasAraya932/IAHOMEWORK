@@ -15,4 +15,4 @@ Importante realizar la ejecución de las celdas según el orden en el que se enc
 
 No es necesario descargar los archivos con los conjuntos de entrenamiento y prueba pues estos son descargados directamente mediante el comando wget de unix.
 
-No todos los modelos son reiniciados en el código, por lo que corresponde reiniciar el entorno y ejecutar todo nuevamente para evitar el sobreajuste de los modelos RNA.
+No todos los modelos son reiniciados en el código, por lo que corresponde reiniciar el entorno y ejecutar todo nuevamente para evitar el sobreajuste de los modelos RNA o CNN.
